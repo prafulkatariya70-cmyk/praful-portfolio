@@ -208,26 +208,26 @@ export default function Navbar() {
             );
           })}
 
-          <Link
-            href="/resume.pdf"
-            target="_blank"
-            onClick={() => setOpen(false)}
-            className="
-              mt-2
-              rounded-xl
-              bg-[#3BFF8A]
-              px-4
-              py-3
-              text-center
-              font-semibold
-              text-black
-              transition-all
-              duration-300
-              hover:bg-[#2DE978]
-            "
-          >
-            Download Resume
-          </Link>
+<a
+  href="/resume.pdf"
+  download
+  onClick={() => setOpen(false)}
+  className="
+    mt-2
+    rounded-xl
+    bg-[#3BFF8A]
+    px-4
+    py-3
+    text-center
+    font-semibold
+    text-black
+    transition-all
+    duration-300
+    hover:bg-[#2DE978]
+  "
+>
+  Download Resume
+</a>
 
         </div>
       </div>
