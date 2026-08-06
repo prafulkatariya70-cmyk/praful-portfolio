@@ -51,7 +51,7 @@ export const metadata: Metadata = {
 
   publisher: "Praful Katariya",
 
-  metadataBase: new URL("https://your-domain.vercel.app"),
+  metadataBase: new URL("https://prafulkatariya.site"),
 
   alternates: {
     canonical: "/",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     description:
       "Explore real-world SQL, Python, Power BI, Excel and Machine Learning projects with interactive dashboards and business analytics solutions.",
 
-    url: "https://your-domain.vercel.app",
+   url: "https://prafulkatariya.site",
 
     siteName: "Praful Katariya Portfolio",
 
