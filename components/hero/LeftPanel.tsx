@@ -18,7 +18,7 @@ export default function LeftPanel() {
         {/* Heading */}
 
         <h1 className="mt-8 text-5xl font-black leading-[0.9] tracking-[-0.04em] text-white lg:text-[80px]">
-          Praful
+          Prafful
           <br />
           Katariya
         </h1>
