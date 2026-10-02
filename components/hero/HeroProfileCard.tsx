@@ -29,7 +29,7 @@ export default function HeroProfileCard() {
 
         <Image
           src="/profile.jpg"
-          alt="Praful Katariya"
+          alt="Prafful Katariya"
           width={250}
           height={250}
           priority
