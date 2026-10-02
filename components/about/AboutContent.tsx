@@ -21,7 +21,7 @@ export default function AboutContent() {
       <div className="text-center lg:text-left">
 
         <span className="text-xs font-semibold uppercase tracking-[0.25em] text-[#3BFF8A] lg:text-sm">
-          Hello, I'm Praful 👋
+          Hello, I'm Prafful 👋
         </span>
 
         <h2 className="mt-4 text-3xl font-bold leading-tight text-white lg:text-4xl">
