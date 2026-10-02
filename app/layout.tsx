@@ -14,16 +14,16 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Praful Katariya | Data Analyst Portfolio",
-    template: "%s | Praful Katariya",
+    default: "Prafful Katariya | Data Analyst Portfolio",
+    template: "%s | Prafful Katariya",
   },
 
   description:
     "Data Analyst passionate about transforming raw data into meaningful business insights using SQL, Python, Power BI, Excel, and Machine Learning. Explore real-world analytics projects, interactive dashboards, and end-to-end data solutions.",
 
   keywords: [
-    "Praful Katariya",
-    "Praful",
+    "Prafful Katariya",
+    "Prafful",
     "Data Analyst",
     "Data Analytics",
     "Business Intelligence",
@@ -43,13 +43,13 @@ export const metadata: Metadata = {
 
   authors: [
     {
-      name: "Praful Katariya",
+      name: "Prafful Katariya",
     },
   ],
 
-  creator: "Praful Katariya",
+  creator: "Prafful Katariya",
 
-  publisher: "Praful Katariya",
+  publisher: "Prafful Katariya",
 
   metadataBase: new URL("https://prafulkatariya.site"),
 
@@ -58,14 +58,14 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Praful Katariya | Data Analyst Portfolio",
+    title: "Prafful Katariya | Data Analyst Portfolio",
 
     description:
       "Explore real-world SQL, Python, Power BI, Excel and Machine Learning projects with interactive dashboards and business analytics solutions.",
 
    url: "https://prafulkatariya.site",
 
-    siteName: "Praful Katariya Portfolio",
+    siteName: "Prafful Katariya Portfolio",
 
     locale: "en_US",
 
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Praful Katariya Data Analyst Portfolio",
+        alt: "Prafful Katariya Data Analyst Portfolio",
       },
     ],
   },
@@ -84,7 +84,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
 
-    title: "Praful Katariya | Data Analyst Portfolio",
+    title: "Prafful Katariya | Data Analyst Portfolio",
 
     description:
       "SQL • Python • Power BI • Excel • Machine Learning",
