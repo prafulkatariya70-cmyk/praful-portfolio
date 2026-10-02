@@ -62,7 +62,7 @@ export default function Navbar() {
         group-hover:text-[#3BFF8A]
       "
     >
-      Praful Katariya
+      Prafful Katariya
     </h1>
 
     <p className="text-xs text-slate-400">
