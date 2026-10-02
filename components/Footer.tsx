@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-5 text-center lg:px-8">
 
         <p className="text-sm text-slate-400">
-          © 2026 Praful Katariya
+          © 2026 Prafful Katariya
         </p>
 
         <p className="mt-3 text-xs leading-6 text-slate-500 lg:text-sm">
