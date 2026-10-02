@@ -11,7 +11,7 @@ export default function ProfileCard() {
 
         <Image
           src="/profile.jpg"
-          alt="Praful Katariya"
+          alt="Prafful Katariya"
           width={500}
           height={600}
           priority
