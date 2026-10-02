@@ -30,7 +30,7 @@ export default function HeroAboutSection() {
             </span>
 
             <h2 className="mt-3 text-3xl font-bold leading-tight text-white">
-              Hello, I'm Praful 👋
+              Hello, I'm Prafful 👋
             </h2>
 
    <p className="mt-5 leading-7 text-slate-400">
